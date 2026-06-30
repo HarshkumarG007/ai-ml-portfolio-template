@@ -1,0 +1,12 @@
+data:
+  raw: "data/raw/"
+  interim: "data/interim/"
+  processed: "data/processed/"
+  external: "data/external/"
+outputs:
+  models: "models/"
+  predictions: "outputs/predictions/"
+  metrics: "outputs/metrics/"
+reports:
+  figures: "reports/figures/"
+  final_report: "reports/final_report.md"
